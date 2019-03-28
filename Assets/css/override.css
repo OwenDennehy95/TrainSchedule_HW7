@@ -1,0 +1,18 @@
+body{
+    background-image: url("../images/trainimage.jpg");
+}
+.container{
+    background-color: rgb(112, 197, 197);
+    font-family: 'Lato', sans-serif;
+    border-radius: 10px;
+}
+.jumbotron{
+    background-color: rgb(155, 96, 189);
+    font-family: 'Lato', sans-serif;
+    
+}
+.table{
+    background-color: rgb(155, 96, 189);
+    font-family: 'Lato', sans-serif;
+    border-radius: 10px;
+}
